@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" role="img" aria-labelledby="t">
+  <title id="t">Escudo de la ET 3 (reemplazar por el escudo oficial)</title>
+  <path d="M60 4 L112 18 V66 C112 102 88 124 60 136 C32 124 8 102 8 66 V18 Z" fill="#FFFFFF" stroke="#202124" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M60 14 L102 25 V66 C102 96 82 114 60 124 C38 114 18 96 18 66 V25 Z" fill="#E3EDFD"/>
+  <rect x="18" y="25" width="84" height="8" fill="#4285F4"/>
+  <text x="60" y="78" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="34" fill="#202124">ET 3</text>
+  <path d="M34 92 H86" stroke="#34A853" stroke-width="4" stroke-linecap="round"/>
+  <path d="M40 102 H80" stroke="#EA4335" stroke-width="4" stroke-linecap="round"/>
+</svg>
