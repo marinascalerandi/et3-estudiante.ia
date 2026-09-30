@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280">
+  <!-- Cuaderno abierto con lápiz, regla y estrellita (ilustración decorativa) -->
+  <g stroke="#202124" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M30 60 Q95 40 160 62 V240 Q95 220 30 240 Z" fill="#FFFFFF"/>
+    <path d="M160 62 Q225 40 290 60 V240 Q225 220 160 240 Z" fill="#FFFFFF"/>
+    <path d="M160 62 V240" />
+  </g>
+  <g stroke="#4285F4" stroke-width="1.6" opacity="0.6">
+    <path d="M44 95 Q95 82 148 97"/><path d="M44 120 Q95 107 148 122"/><path d="M44 145 Q95 132 148 147"/>
+    <path d="M44 170 Q95 157 148 172"/><path d="M44 195 Q95 182 148 197"/>
+    <path d="M172 97 Q225 82 276 95"/><path d="M172 122 Q225 107 276 120"/><path d="M172 147 Q225 132 276 145"/>
+    <path d="M172 172 Q225 157 276 170"/><path d="M172 197 Q225 182 276 195"/>
+  </g>
+  <path d="M58 64 V230" stroke="#EA4335" stroke-width="2" opacity="0.7"/>
+  <!-- tilde -->
+  <path d="M190 128 L205 145 L240 104" fill="none" stroke="#34A853" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- garabatos -->
+  <path d="M72 108 q10 -8 20 0 t20 0 t20 0" fill="none" stroke="#202124" stroke-width="3" stroke-linecap="round"/>
+  <path d="M72 158 q10 -8 20 0 t20 0" fill="none" stroke="#202124" stroke-width="3" stroke-linecap="round"/>
+  <!-- estrella -->
+  <path d="M262 20 l8 17 18 2 -13 12 4 18 -17 -9 -17 9 4 -18 -13 -12 18 -2 z" fill="#FBBC05" stroke="#202124" stroke-width="3" stroke-linejoin="round"/>
+  <!-- lápiz -->
+  <g transform="rotate(-35 220 230)" stroke="#202124" stroke-width="3" stroke-linejoin="round">
+    <rect x="150" y="220" width="120" height="22" fill="#FBBC05"/>
+    <rect x="270" y="220" width="18" height="22" fill="#EA4335"/>
+    <path d="M150 220 L126 231 L150 242 Z" fill="#F6E3C6"/>
+    <path d="M133 228 L126 231 L133 234 Z" fill="#202124"/>
+  </g>
+  <!-- regla -->
+  <g transform="rotate(8 70 262)">
+    <rect x="10" y="250" width="130" height="20" rx="3" fill="#E2F3E6" stroke="#202124" stroke-width="3"/>
+    <path d="M25 250 v8 M40 250 v5 M55 250 v8 M70 250 v5 M85 250 v8 M100 250 v5 M115 250 v8" stroke="#202124" stroke-width="2"/>
+  </g>
+</svg>
