@@ -19,7 +19,7 @@ Sitio estático (HTML, CSS y JS puro) para difundir la certificación gratuita *
 | `css/estilos.css` | Estilos (variables de color y tipografía al principio) |
 | `css/impresion.css` | Estilos para imprimir |
 | `js/main.js` | Menú móvil, checklists, autoevaluación, imprimir y copiar |
-| `img/escudo.svg` | **Escudo provisorio**: reemplazalo por el oficial con el mismo nombre (o cambiá la ruta en cada página) |
+| `img/escudo.jpg` | Escudo de la escuela (para cambiarlo, reemplazá el archivo con el mismo nombre) |
 
 ## Personalizar
 - **Colores**: editá las variables de `:root` en `css/estilos.css`. Las versiones `--*-texto` son las que se usan para texto sobre fondo claro (contraste AA); el amarillo se usa solo como decoración.
