@@ -687,3 +687,16 @@ thead th { background: var(--gris-suave); }
 }
 .hoja h2 { font-size: 1.7rem; }
 .hoja h3, .pizarron h3 { display: flex; align-items: center; gap: 0.5rem; }
+
+/* ---------- 18. Pasos numerados y botón pendiente ---------- */
+.lista-pasos { padding-left: 1.4rem; }
+.lista-pasos li { margin-bottom: 0.7rem; padding-left: 0.3rem; }
+.lista-pasos li::marker { font-family: var(--fuente-titulos); font-weight: 700; color: var(--azul-texto); }
+
+.boton--pendiente {
+  background: var(--gris-suave);
+  color: var(--tinta);
+  border: 2px dashed var(--tinta-suave);
+  box-shadow: none;
+  cursor: default;
+}
