@@ -16,6 +16,7 @@ Sitio estático (HTML, CSS y JS puro) para difundir la certificación gratuita *
 | `estudiantes.html` | Pasos, plan de 4 semanas, checklist y autoevaluación |
 | `docentes.html` | Grupos de estudio, plan de encuentros, jornada de examen, nota para familias (imprimible) |
 | `comparti-tu-logro.html` | Cómo subir el certificado y reconocimiento de la escuela (falta confirmar el mail de la escuela) |
+| `practica.html` | Tres cuestionarios de práctica (Formularios de Google) |
 | `preguntas.html` | Preguntas frecuentes |
 | `css/estilos.css` | Estilos (variables de color y tipografía al principio) |
 | `css/impresion.css` | Estilos para imprimir |
